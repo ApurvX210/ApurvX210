@@ -1,3 +1,14 @@
+<div id="header" align="center">
+        <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="100"/>
+      </div>
+<!--       <div id="badges" align ="center">
+        <a href="https://linkedin.com/in/jai gaur">
+          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        <a href="https://twitter.com/jai_gaur_210">
+          <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+        </a> -->
+</div>
 <h1 align="center">Hi 👋, I'm Apurv Sharma</h1>
 <h3 align="center">A passionate Whore</h3>
 
